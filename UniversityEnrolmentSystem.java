@@ -49,7 +49,7 @@ class StudentInfo {
     }
 }
 
-public class Exp3hard {
+public class UniversityEnrolmentSyatem {
     public static void main(String[] args) {
         Course advancedJava = new Course("Adv Java", 2, "Core Java");
         StudentInfo student = new StudentInfo("Ammar", null);
